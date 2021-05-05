@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCleaner", "RobotCleaner\RobotCleaner.csproj", "{335B7CEF-B372-4512-AA08-AFBF35B411BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCleaner.Tests", "RobotCleaner.Tests\RobotCleaner.Tests.csproj", "{AB76624C-B1E2-4459-A4C2-A81CF6BB7E5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{327DC420-CA55-451B-900B-E3CC4B719BDF}"
+ProjectSection(SolutionItems) = preProject
+	README.md = README.md
+	MyQ Unattended Coding Test 2.5.pdf = MyQ Unattended Coding Test 2.5.pdf
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335B7CEF-B372-4512-AA08-AFBF35B411BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335B7CEF-B372-4512-AA08-AFBF35B411BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335B7CEF-B372-4512-AA08-AFBF35B411BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335B7CEF-B372-4512-AA08-AFBF35B411BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB76624C-B1E2-4459-A4C2-A81CF6BB7E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB76624C-B1E2-4459-A4C2-A81CF6BB7E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB76624C-B1E2-4459-A4C2-A81CF6BB7E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB76624C-B1E2-4459-A4C2-A81CF6BB7E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
